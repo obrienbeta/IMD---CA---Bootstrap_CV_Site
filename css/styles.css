@@ -46,6 +46,11 @@ body {
 	
 }
 
+.col-lg-4 .panel{
+color:white;
+
+}
+
 .col-lg-12 .AboutMe{
 margin-bottom: 30px;
 }
@@ -129,6 +134,7 @@ color:blue:
 	background-position: center center;
 	background-attachment: fixed;
 	background-size: cover;
+	color:white;
 }
 
 .panel .panel-heading {
